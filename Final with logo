@@ -1,0 +1,6 @@
+{
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "description": "Mock Tether Token for Sepolia Testnet",
+    "image": "https://cryptologos.cc/logos/tether-usdt-logo.png"
+}
